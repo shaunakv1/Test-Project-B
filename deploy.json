@@ -1,5 +1,5 @@
 {
-	'dev' : {
-		'projectroot' : 'somepath/Project-B'
+    "dev" : {
+		"projectroot" : "somepath/Project-B"
 	}
 }
