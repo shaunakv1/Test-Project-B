@@ -1,0 +1,5 @@
+{
+	'dev' : {
+		'projectroot' : 'somepath/Project-B';
+	}
+}
