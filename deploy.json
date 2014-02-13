@@ -1,5 +1,6 @@
 {
     "dev" : {
-		"projectroot" : "somepath/Project-B"
+		"projectroot" : "/home/ubuntu/deploy-test/",
+		"projectdir": "testB"
 	}
 }
