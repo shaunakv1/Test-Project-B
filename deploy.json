@@ -1,6 +1,9 @@
 {
     "dev" : {
 		"projectroot" : "/home/ubuntu/deploy-test/",
-		"projectdir": "testB"
+		"projectdir": "testB",
+		"commitEmail": true,
+		"deployEmail":true,
+		"emails":["shaunakv1@gmail.com"]
 	}
 }
