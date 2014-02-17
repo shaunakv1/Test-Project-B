@@ -1,7 +1,8 @@
 {
     "projectName": "Test Project A",
     "disable": true,
-    "servers":["dev","qa","prod"],
+    "stages":["dev","qa","prod"],
+    
     "dev" : {
 		"projectroot" : "/home/ubuntu/deploy-test/",
 		"projectdir": "testB",
