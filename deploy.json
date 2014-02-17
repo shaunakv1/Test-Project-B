@@ -1,4 +1,5 @@
 {
+    "projectName": "Test Project A",
     "disable": true,
     "servers":["dev","qa","prod"],
     "dev" : {
@@ -12,6 +13,6 @@
 
 		},
 	"prod":{
-		
+
 	}
 }
