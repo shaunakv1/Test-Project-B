@@ -1,9 +1,17 @@
 {
+    "disable": true,
+    "servers":["dev","qa","prod"],
     "dev" : {
 		"projectroot" : "/home/ubuntu/deploy-test/",
 		"projectdir": "testB",
 		"commitEmail": true,
 		"deployEmail":true,
 		"emails":["shaunakv1@gmail.com"]
+	},
+	"qa":{
+
+		},
+	"prod":{
+		
 	}
 }
